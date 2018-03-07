@@ -1,14 +1,16 @@
 body {
-  background-color: 
+  background-color: #555;
 
 }
 
 h1 {
-  
+  font-family: fantasy;
+  font-size: 60px;
 
 }
 
 p {
-
+ background-color: #ffd;
+ font-weight: bold;
 
 }
